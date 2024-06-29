@@ -1,0 +1,6 @@
+# Ignore everything in the data folder
+/data/*
+
+# Except the .gitkeep file
+!/.gitkeep
+*__pycache__
